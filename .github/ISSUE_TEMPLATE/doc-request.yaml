@@ -1,7 +1,9 @@
 name: Documentation request
 description: Create a report about a missing documentation
-title: "[DOC]: "
+title: "\U0001F4C4 "
 labels: ["documentation"]
+assignees:
+  - ErikNovak
 body:
   - type: markdown
     attributes:
