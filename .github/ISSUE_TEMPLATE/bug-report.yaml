@@ -1,7 +1,9 @@
 name: Bug Report
 description: File a bug report
-title: "🐞 "
+title: "\U0001F41E "
 labels: ["bug"]
+assignees:
+  - ErikNovak
 body:
   - type: markdown
     attributes:
